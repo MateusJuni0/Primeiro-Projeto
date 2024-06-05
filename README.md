@@ -1,2 +1,2 @@
 # Primeiro-Projeto
-Primeira tentativa sem usasr js 
+Primeira tentativa sem usar js 
